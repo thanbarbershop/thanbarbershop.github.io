@@ -4,19 +4,18 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
 
 
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### ThanBarberShop - Nơi Tạo Nên Những Kiểu Tóc Nam Đẹp và Phong Cách Tại Hà Nội
 
 Trong thế giới hiện đại, việc chăm sóc ngoại hình không chỉ là mối quan tâm của phái đẹp mà còn là nhu cầu thiết yếu của phái mạnh. Đặc biệt, một kiểu tóc đẹp không chỉ giúp tăng cường sự tự tin mà còn thể hiện rõ cá tính của mỗi người. Với sự am hiểu về phong cách và xu hướng, **ThanBarberShop** đã trở thành một trong những điểm đến hàng đầu cho các quý ông muốn tìm kiếm một kiểu tóc hoàn hảo tại Hà Nội.
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 #### ThanBarberShop - Sự Lựa Chọn Hoàn Hảo Cho Mọi Phong Cách
 
-ThanBarberShop tự hào là nơi hội tụ những thợ cắt tóc tay nghề cao và giàu kinh nghiệm. Dù bạn đang tìm kiếm một kiểu tóc cổ điển, lịch lãm hay muốn thử sức với những xu hướng hiện đại, trẻ trung, đội ngũ thợ tại đây luôn sẵn sàng tư vấn và thực hiện những kiểu tóc phù hợp nhất với khuôn mặt và phong cách sống của bạn.
+[ThanBarberShop](https://thanbarbershop.com) tự hào là nơi hội tụ những thợ cắt tóc tay nghề cao và giàu kinh nghiệm. Dù bạn đang tìm kiếm một kiểu tóc cổ điển, lịch lãm hay muốn thử sức với những xu hướng hiện đại, trẻ trung, đội ngũ thợ tại đây luôn sẵn sàng tư vấn và thực hiện những kiểu tóc phù hợp nhất với khuôn mặt và phong cách sống của bạn.
 
 - **Chuyên Nghiệp và Tận Tâm**: Mỗi khách hàng khi đến với ThanBarberShop đều được tiếp đón nồng nhiệt và chăm sóc chu đáo. Đội ngũ thợ cắt không chỉ có kỹ thuật điêu luyện mà còn luôn lắng nghe và hiểu rõ mong muốn của khách hàng, đảm bảo mang đến sự hài lòng tuyệt đối.
 
