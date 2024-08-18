@@ -2,122 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### ThanBarberShop - Nơi Tạo Nên Những Kiểu Tóc Nam Đẹp và Phong Cách Tại Hà Nội
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Trong thế giới hiện đại, việc chăm sóc ngoại hình không chỉ là mối quan tâm của phái đẹp mà còn là nhu cầu thiết yếu của phái mạnh. Đặc biệt, một kiểu tóc đẹp không chỉ giúp tăng cường sự tự tin mà còn thể hiện rõ cá tính của mỗi người. Với sự am hiểu về phong cách và xu hướng, **ThanBarberShop** đã trở thành một trong những điểm đến hàng đầu cho các quý ông muốn tìm kiếm một kiểu tóc hoàn hảo tại Hà Nội.
+
+#### ThanBarberShop - Sự Lựa Chọn Hoàn Hảo Cho Mọi Phong Cách
+
+ThanBarberShop tự hào là nơi hội tụ những thợ cắt tóc tay nghề cao và giàu kinh nghiệm. Dù bạn đang tìm kiếm một kiểu tóc cổ điển, lịch lãm hay muốn thử sức với những xu hướng hiện đại, trẻ trung, đội ngũ thợ tại đây luôn sẵn sàng tư vấn và thực hiện những kiểu tóc phù hợp nhất với khuôn mặt và phong cách sống của bạn.
+
+- **Chuyên Nghiệp và Tận Tâm**: Mỗi khách hàng khi đến với ThanBarberShop đều được tiếp đón nồng nhiệt và chăm sóc chu đáo. Đội ngũ thợ cắt không chỉ có kỹ thuật điêu luyện mà còn luôn lắng nghe và hiểu rõ mong muốn của khách hàng, đảm bảo mang đến sự hài lòng tuyệt đối.
+
+- **Không Gian Sang Trọng, Thư Giãn**: Không chỉ là nơi cắt tóc, ThanBarberShop còn mang đến trải nghiệm thư giãn với không gian thiết kế đẳng cấp, ấm cúng. Bước vào đây, bạn sẽ cảm nhận được sự thoải mái, dễ chịu từ không gian đến cách phục vụ tận tình của nhân viên.
+
+- **Dịch Vụ Đa Dạng**: Bên cạnh dịch vụ cắt tóc, ThanBarberShop còn cung cấp nhiều dịch vụ khác như cạo râu, tạo kiểu, massage đầu và cổ, chăm sóc da mặt... Tất cả đều được thực hiện với tiêu chuẩn cao, giúp bạn trọn vẹn trong việc chăm sóc bản thân.
+
+- **Sử Dụng Sản Phẩm Chất Lượng Cao**: ThanBarberShop cam kết chỉ sử dụng các sản phẩm chăm sóc tóc và da đến từ những thương hiệu uy tín, an toàn và hiệu quả. Điều này không chỉ giúp bảo vệ sức khỏe của khách hàng mà còn nâng cao chất lượng dịch vụ.
+
+#### Lý Do Bạn Nên Chọn ThanBarberShop
+
+1. **Kinh Nghiệm và Chuyên Môn**: Với nhiều năm hoạt động trong ngành, ThanBarberShop đã phục vụ hàng nghìn khách hàng với sự hài lòng cao nhất. Sự kết hợp giữa kinh nghiệm và khả năng cập nhật xu hướng đã tạo nên sức hút đặc biệt của nơi đây.
+
+2. **Thấu Hiểu Phong Cách**: Mỗi người đàn ông đều có một cá tính và phong cách riêng biệt. ThanBarberShop hiểu rõ điều đó và luôn chú trọng vào việc tạo ra những kiểu tóc phản ánh đúng phong cách và con người của từng khách hàng.
+
+3. **Giá Trị Vượt Trội**: Với sự chuyên nghiệp và chất lượng dịch vụ hàng đầu, ThanBarberShop mang đến giá trị vượt trội so với mức chi phí mà bạn bỏ ra. Đây là sự đầu tư xứng đáng cho diện mạo và phong cách của bạn.
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Nếu bạn đang tìm kiếm một tiệm cắt tóc nam đẹp và uy tín tại Hà Nội, **ThanBarberShop** chắc chắn là lựa chọn không thể bỏ qua. Hãy đến và trải nghiệm sự khác biệt trong từng đường kéo, từng phong cách mà ThanBarberShop mang lại, để bạn không chỉ có một kiểu tóc đẹp mà còn tự tin thể hiện cá tính của mình mỗi ngày.
