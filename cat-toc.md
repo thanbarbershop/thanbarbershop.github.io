@@ -20,7 +20,7 @@ ThanBarberShop tự hào sở hữu đội ngũ barber có tay nghề cao và nh
 ThanBarberShop không chỉ cung cấp dịch vụ cắt tóc thông thường mà còn mang đến nhiều lựa chọn tạo kiểu khác nhau, từ những kiểu tóc cổ điển đến những phong cách hiện đại, cá tính. Một số kiểu tóc nổi bật mà bạn có thể trải nghiệm tại đây bao gồm:
 
 - [**Undercut:**](https://thanbarbershop.com/kieutoc/kieu-toc-undercut) Phong cách hiện đại với hai bên cạo sát, phần trên để dài, dễ dàng biến tấu theo nhiều phong cách khác nhau.
-- **Pompadour:** - [**Pompadou:**](https://thanbarbershop.com/kieutoc/kieu-toc-pompadour) Kiểu tóc mang đậm chất lịch lãm với phần mái được vuốt ngược, tạo nên vẻ ngoài cuốn hút.
+- *l[**Pompadour:**](https://thanbarbershop.com/kieutoc/kieu-toc-pompadour) Kiểu tóc mang đậm chất lịch lãm với phần mái được vuốt ngược, tạo nên vẻ ngoài cuốn hút.
 - [**Faux Hawk:**](https://thanbarbershop.com/kieutoc/kieu-toc-faux-hawk)  Kết hợp giữa sự mạnh mẽ của Mohican và tính ứng dụng cao của Undercut, mang đến vẻ ngoài năng động, cá tính.
 - [**Layer:**](https://thanbarbershop.com/kieutoc/kieu-toc-layer) Phù hợp với những ai yêu thích sự tự nhiên, tóc được cắt thành nhiều tầng tạo độ phồng và mềm mại.
 
