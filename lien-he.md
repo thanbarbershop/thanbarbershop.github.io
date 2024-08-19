@@ -41,8 +41,8 @@ ThanBarberShop luôn đề cao sự hài lòng của khách hàng. Chúng tôi c
 
 ThanBarberShop mở cửa tất cả các ngày trong tuần để phục vụ nhu cầu làm đẹp của khách hàng:
 
-- **Thứ Hai - Thứ Sáu:** 9:00 - 20:00
-- **Thứ Bảy - Chủ Nhật:** 8:00 - 19:00
+- **Thứ Hai - Thứ Sáu:** 9:00 - 19:00
+- **Thứ Bảy - Chủ Nhật:** 9:00 - 19:00
 
 Chúng tôi khuyến khích khách hàng đặt lịch trước để có trải nghiệm tốt nhất, tránh thời gian chờ đợi lâu.
 
