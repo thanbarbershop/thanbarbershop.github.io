@@ -6,6 +6,8 @@ layout: default
 
 [ThanBarberShop](https://thanbarbershop.com) là một trong những [tiệm cắt tóc nam](https://thanbarbershop.com/dichvu/cat-toc-nam) hàng đầu tại Hà Nội, nơi bạn có thể trải nghiệm dịch vụ chăm sóc tóc chuyên nghiệp và phong cách. Chúng tôi cam kết mang đến cho khách hàng những kiểu tóc đẹp, thời trang và phù hợp với cá tính riêng của từng người. Nếu bạn đang tìm kiếm một địa chỉ đáng tin cậy để làm mới diện mạo của mình, đừng ngần ngại liên hệ với ThanBarberShop.
 
+![ThanBarberShop](images/than-barber-shop.jpg)
+
 ## 1. Thông Tin Liên Hệ
 
 Để đặt lịch hẹn hoặc tư vấn thêm về dịch vụ, bạn có thể liên hệ với chúng tôi qua các kênh sau:
