@@ -26,10 +26,10 @@ ThanBarberShop luôn đầu tư vào các thiết bị và sản phẩm chăm s�
 
 ThanBarberShop luôn đi đầu trong việc cập nhật và sáng tạo các [kiểu tóc nam đẹp](https://thanbarbershop.com/dichvu/cat-toc-nam), phù hợp với mọi phong cách và lứa tuổi. Dưới đây là một số kiểu tóc đang được yêu thích tại đây:
 
-- **Undercut:** Kiểu tóc với hai bên cạo sát, phần trên để dài, dễ dàng tạo kiểu từ lịch lãm đến cá tính.
-- **Layer:** Kiểu tóc nhiều tầng giúp tóc có độ phồng tự nhiên, phù hợp với những ai thích sự mềm mại, tự nhiên.
-- **Faux Hawk:** Pha trộn giữa sự táo bạo và tinh tế, Faux Hawk là lựa chọn hoàn hảo cho những chàng trai muốn nổi bật mà vẫn giữ được sự lịch sự.
-- **Mohican:** Kiểu tóc mạnh mẽ với phần tóc giữa để dài, hai bên cạo sát, phù hợp cho những ai yêu thích sự khác biệt và cá tính.
+- [**Undercut:**](https://thanbarbershop.com/kieutoc/kieu-toc-undercut) Kiểu tóc với hai bên cạo sát, phần trên để dài, dễ dàng tạo kiểu từ lịch lãm đến cá tính.
+- [**Layer:**](https://thanbarbershop.com/kieutoc/kieu-toc-layer) Kiểu tóc nhiều tầng giúp tóc có độ phồng tự nhiên, phù hợp với những ai thích sự mềm mại, tự nhiên.
+- [**Faux Hawk:**(https://thanbarbershop.com/kieutoc/kieu-toc-faux-hawk) Pha trộn giữa sự táo bạo và tinh tế, Faux Hawk là lựa chọn hoàn hảo cho những chàng trai muốn nổi bật mà vẫn giữ được sự lịch sự.
+- [**Mohican:**(https://thanbarbershop.com/kieutoc/kieu-toc-mohican) Kiểu tóc mạnh mẽ với phần tóc giữa để dài, hai bên cạo sát, phù hợp cho những ai yêu thích sự khác biệt và cá tính.
 
 ## 3. Quy Trình Cắt Tóc Chuyên Nghiệp
 
