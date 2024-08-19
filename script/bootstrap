@@ -1,5 +1,5 @@
 #!/bin/sh | xargs chmod a+x
-!/bin/bash | xargs chmod a+x
+#!/bin/bash | xargs chmod a+x
 
 set -e
 
