@@ -6,6 +6,8 @@ layout: default
 
 Khi nhắc đến việc chăm sóc tóc và tạo kiểu cho nam giới tại Hà Nội, [ThanBarberShop](https://thanbarbershop.com) là một trong những địa chỉ nổi bật nhất. Đây không chỉ là nơi bạn có thể đến để cắt tóc, mà còn là một điểm đến để trải nghiệm nghệ thuật tạo kiểu tóc đỉnh cao, sự chuyên nghiệp trong dịch vụ, và không gian thư giãn hiện đại.
 
+![ThanBarberShop](images/than-barber-shop.jpg)
+
 ## 1. Tại Sao Nên Chọn ThanBarberShop?
 
 ### **Chất Lượng Dịch Vụ Đỉnh Cao**
