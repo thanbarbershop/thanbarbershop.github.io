@@ -4,10 +4,9 @@ layout: default
 
 ### ThanBarberShop - Cắt Tóc Nam Đẹp Hà Nội
 
+![ThanBarberShop](images/than-barber-shop.jpg)
+
 Trong thế giới hiện đại, việc chăm sóc ngoại hình không chỉ là mối quan tâm của phái đẹp mà còn là nhu cầu thiết yếu của phái mạnh. Đặc biệt, một kiểu tóc đẹp không chỉ giúp tăng cường sự tự tin mà còn thể hiện rõ cá tính của mỗi người. Với sự am hiểu về phong cách và xu hướng, ThanBarberShop đã trở thành một trong những điểm đến hàng đầu cho các quý ông muốn tìm kiếm một kiểu tóc hoàn hảo tại Hà Nội.
-
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 #### ThanBarberShop - Sự Lựa Chọn Hoàn Hảo Cho Mọi Phong Cách
 
