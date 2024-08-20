@@ -5,10 +5,9 @@ on:
     types: [opened, synchronize]
 jobs:
   build:
-  chmod a+x script/bootstrap
-chmod a+x script/cibuild
-    runs-on: ubuntu-latest
-    name: script/cibuild
+    - chmod a+x script/bootstrap
+  - chmod a+x script/cibuild
+  - bundle update
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
