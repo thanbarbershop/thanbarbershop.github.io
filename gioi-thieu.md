@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Giới Thiệu Cắt Tóc Nam Đẹp Hà Nội - ThanBarberShop
+# Giới Thiệu Cắt Tóc Nam Đẹp Hà Nội
 
 ![ThanBarberShop](images/than-barber-shop.jpg)
 
