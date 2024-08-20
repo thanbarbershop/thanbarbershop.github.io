@@ -1,8 +1,9 @@
-#!/bin/sh | xargs chmod a+x
-#!/bin/bash | xargs chmod a+x
-chmod +x bin/*
-RUN ["sh", "bootstrap.sh"]
-set -e
+#!/bin/sh
 
-gem install bundler
-bundle install
+set -e
+export CC=gcc
+
+echo "==> Installing gem dependencies…"
+bundle check --path vendor/gems 2>&1 > /dev/null || {
+  bundle install --binstubs bin --path vendor/gems --quiet
+}
