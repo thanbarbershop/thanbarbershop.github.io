@@ -1,13 +1,12 @@
-
+- chmod a+x script/bootstrap
+  - chmod a+x script/cibuild
+  - bundle update
 on:
   push:
   pull_request:
     types: [opened, synchronize]
 jobs:
   build:
-    - chmod a+x script/bootstrap
-  - chmod a+x script/cibuild
-  - bundle update
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
