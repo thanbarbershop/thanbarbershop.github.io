@@ -6,8 +6,8 @@ layout: default
 
 ![ThanBarberShop](images/than-barber-shop.jpg)
 
-Trong những năm gần đây, nghề barber đã trở thành một trong những ngành nghề hot nhất tại Việt Nam, đặc biệt là ở các thành phố lớn như Hà Nội. Với nhu cầu ngày càng cao về làm đẹp và phong cách của nam giới, việc sở hữu kỹ năng cắt tóc theo phong cách barber không chỉ mang lại cơ hội việc làm hấp dẫn mà còn giúp bạn khẳng định được tay nghề trong một lĩnh vực đầy sáng tạo. ThanBarberShop, một trong những tiệm cắt tóc nam hàng đầu tại Hà Nội, tự hào cung cấp khóa học dạy nghề [cắt tóc nam đẹp](https://thanbarbershop.com/dichvu/cat-toc-nam) phong cách barber chuyên nghiệp.
 
+Trong những năm gần đây, nghề barber đã trở thành một trong những ngành nghề hot nhất tại Việt Nam, đặc biệt là ở các thành phố lớn như Hà Nội. Với nhu cầu ngày càng cao về làm đẹp và phong cách của nam giới, việc sở hữu kỹ năng cắt tóc theo phong cách barber không chỉ mang lại cơ hội việc làm hấp dẫn mà còn giúp bạn khẳng định được tay nghề trong một lĩnh vực đầy sáng tạo. ThanBarberShop, một trong những tiệm cắt tóc nam hàng đầu tại Hà Nội, tự hào cung cấp khóa học dạy nghề [cắt tóc nam đẹp](https://thanbarbershop.com/dichvu/cat-toc-nam) phong cách barber chuyên nghiệp.
 
 
 ## 1. Tại Sao Nên Học Nghề Barber Tại ThanBarberShop?
