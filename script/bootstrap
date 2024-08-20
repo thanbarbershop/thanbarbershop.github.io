@@ -1,6 +1,6 @@
 #!/bin/sh | xargs chmod a+x
 #!/bin/bash | xargs chmod a+x
-
+chmod +x bin/*
 set -e
 
 gem install bundler
