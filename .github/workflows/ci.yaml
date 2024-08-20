@@ -1,5 +1,3 @@
-- chmod a+x script/bootstrap
-- chmod a+x script/cibuild
 on:
   push:
   pull_request:
