@@ -1,7 +1,7 @@
 url: "https://thanbarbershop.github.io"
 plugins:
   - jekyll-sitemap
-gem 'jekyll-sitemap', '~> 1.4'
+
 exclude:
   - node_modules
   - script
@@ -16,7 +16,7 @@ github:
   license:
     name: MIT
   source:
-    branch: "master"
+    branch: "main"
     path: "/"
   repository_url: "https://github.com/pages-themes/primer"
   
