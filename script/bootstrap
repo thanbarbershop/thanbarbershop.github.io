@@ -1,5 +1,5 @@
-#!/bin/sh
-
+ #!/usr/bin/bash
+ #!/usr/bin/bash -i
 set -e
 
 gem install bundler
