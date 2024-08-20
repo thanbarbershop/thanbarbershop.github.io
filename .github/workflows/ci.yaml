@@ -1,11 +1,12 @@
-chmod a+x script/bootstrap
-chmod a+x script/cibuild
+
 on:
   push:
   pull_request:
     types: [opened, synchronize]
 jobs:
   build:
+  chmod a+x script/bootstrap
+chmod a+x script/cibuild
     runs-on: ubuntu-latest
     name: script/cibuild
     steps:
