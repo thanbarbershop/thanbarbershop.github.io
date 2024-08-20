@@ -54,7 +54,15 @@ ThanBarberShop luôn sẵn sàng đón nhận những học viên có đam mê v
 
 
 
+![ThanBarberShop](images/day-nghe-1.jpg)
 
+![ThanBarberShop](images/day-nghe-2.jpg)
+
+![ThanBarberShop](images/day-nghe-3.jpg)
+
+![ThanBarberShop](images/day-nghe-4.jpg)
+
+![ThanBarberShop](images/day-nghe-5.jpg)
 
 ![ThanBarberShop](images/toc-nam-dep-1.jpg)
 
