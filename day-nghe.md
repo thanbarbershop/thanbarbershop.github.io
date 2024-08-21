@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Dạy Nghề Cắt Tóc Nam Đẹp Phong Cách Barber Tại Hà Nội - ThanBarberShop
+# Dạy Nghề Cắt Tóc Nam Phong Cách Barber Tại Hà Nội
 
 ![ThanBarberShop](images/than-barber-shop.jpg)
 
