@@ -1,7 +1,8 @@
 url: "https://thanbarbershop.github.io"
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 gems:
 - jekyll-sitemap
+
 exclude:
   - node_modules
   - script
