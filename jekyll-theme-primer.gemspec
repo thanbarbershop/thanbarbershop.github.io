@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-gem 'jekyll-sitemap'
+
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-primer"
   s.version       = "0.6.0"
