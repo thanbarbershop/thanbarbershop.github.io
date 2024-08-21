@@ -2,10 +2,11 @@
 layout: default
 ---
 
-![ThanBarberShop](images/than-barber-shop.jpg)
-
 
 # Cắt Tóc Nam Đẹp
+
+![ThanBarberShop](images/than-barber-shop.jpg)
+
 
 Trong thế giới hiện đại, việc chăm sóc vẻ bề ngoài không chỉ là đặc quyền của phái nữ. Nam giới ngày nay cũng rất chú trọng đến việc cắt tóc và tạo kiểu để thể hiện phong cách cá nhân. Tại Hà Nội, ThanBarberShop đã trở thành địa chỉ uy tín cho những ai tìm kiếm dịch vụ [cắt tóc nam đẹp](https://thanbarbershop.com/dichvu/cat-toc-nam), chuyên nghiệp và thời thượng.
 
