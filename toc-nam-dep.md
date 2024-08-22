@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Tóc Nam Đẹp"
+date: 2024-08-21
 ---
 
 # Tóc Nam Đẹp Tại ThanBarberShop

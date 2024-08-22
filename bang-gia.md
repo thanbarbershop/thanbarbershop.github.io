@@ -1,8 +1,10 @@
 ---
 layout: default
+title: "Bảng giá Cắt Tóc Nam Đẹp Hà Nội"
+date: 2024-08-21
 ---
 
-# Bảng giá Cắt Tóc Nam Đẹp Hà Nội - ThanBarberShop
+# Bảng giá Cắt Tóc Nam Đẹp Hà Nội
 
 ## BẢNG GIÁ DỊCH VỤ TẠI THAN BARBER SHOP:
 
