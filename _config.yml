@@ -23,3 +23,7 @@ github:
 
 title: ThanBarberShop
 description: Địa chỉ Cắt Tóc Nam Đẹp tại Hà Nội - ThanBarberShop
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:categories:output_ext
