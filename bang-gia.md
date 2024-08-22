@@ -2,6 +2,8 @@
 layout: default
 title: "Bảng giá Cắt Tóc Nam Đẹp Hà Nội"
 date: 2024-08-21
+permalink: /bang-gia/
+
 ---
 
 # Bảng giá Cắt Tóc Nam Đẹp Hà Nội

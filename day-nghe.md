@@ -2,6 +2,8 @@
 layout: default
 title: "Dạy Nghề Cắt Tóc Nam Phong Cách Barber Tại Hà Nội"
 date: 2024-08-21
+permalink: /day-nghe/
+
 ---
 
 # Dạy Nghề Cắt Tóc Nam Phong Cách Barber Tại Hà Nội

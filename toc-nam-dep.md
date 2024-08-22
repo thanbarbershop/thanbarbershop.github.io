@@ -2,6 +2,8 @@
 layout: default
 title: "Tóc Nam Đẹp Hà Nội"
 date: 2024-08-21
+permalink: /toc-nam-dep/
+
 ---
 
 # Tóc Nam Đẹp Tại ThanBarberShop

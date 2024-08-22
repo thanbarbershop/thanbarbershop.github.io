@@ -2,7 +2,7 @@
 layout: default
 title: "Cắt Tóc Nam Đẹp Hà Nội"
 date: 2024-08-21
-tags: tocnamdep
+permalink: /cat-toc/
 ---
 
 

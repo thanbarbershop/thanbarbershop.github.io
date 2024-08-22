@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Liên Hệ Cắt Tóc Nam Đẹp Hà Nội
+permalink: /lien-he/
 ---
 
 # Liên Hệ Cắt Tóc Nam Đẹp Hà Nội

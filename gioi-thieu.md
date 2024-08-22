@@ -2,6 +2,8 @@
 layout: default
 title: "Giới Thiệu Cắt Tóc Nam Đẹp Hà Nội"
 date: 2024-08-21
+permalink: /gioi-thieu/
+
 ---
 
 # Giới Thiệu Cắt Tóc Nam Đẹp Hà Nội
