@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tóc Nam Đẹp"
+title: "Tóc Nam Đẹp Hà Nội"
 date: 2024-08-21
 ---
 
