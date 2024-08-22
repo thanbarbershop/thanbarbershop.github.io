@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: home
+title: "Cắt Tóc Nam Đẹp Hà Nội"
+date: 2024-08-21
 ---
 
 ### Cắt Tóc Nam Đẹp Hà Nội
