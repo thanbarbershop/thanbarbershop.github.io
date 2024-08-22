@@ -1,8 +1,9 @@
-﻿url: "https://thanbarbershop.github.io"
-
+url: "https://thanbarbershop.github.io"
+remote_theme: pages-themes/primer@v0.2.0
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  jekyll-remote-theme
 
 exclude:
   - node_modules
