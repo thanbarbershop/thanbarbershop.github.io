@@ -4,7 +4,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   jekyll-remote-theme
-
+google_analytics:
 exclude:
   - node_modules
   - script
