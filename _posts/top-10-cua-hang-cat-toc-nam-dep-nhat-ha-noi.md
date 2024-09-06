@@ -2,6 +2,8 @@
 layout: default
 title: "Top 10 Cửa Hàng Cắt Tóc Nam Đẹp Nhất Hà Nội"
 date: 2024-08-21
+categories: [Blog]
+tags: [tocnamdep]
 permalink: /top-10-cua-hang-cat-toc-nam-dep-nhat-ha-noi/
 
 ---
@@ -15,7 +17,7 @@ Hà Nội không chỉ là trung tâm văn hóa, kinh tế mà còn là nơi t�
 
 **Than Barber Shop** luôn đứng đầu trong danh sách những [cửa hàng cắt tóc nam đẹp](https://thanbarbershop.com/) nhất tại Hà Nội. Với không gian sang trọng, dịch vụ chuyên nghiệp và đội ngũ [thợ cắt tóc](https://thanbarbershop.com/day-nghe) có tay nghề cao, Than Barber Shop đã trở thành điểm đến quen thuộc của nhiều quý ông yêu thích phong cách hiện đại và đẳng cấp.
 
-![ThanBarberShop](images/than-barber-shop.jpg)
+![ThanBarberShop](../images//than-barber-shop.jpg)
 
 - **Địa chỉ:** 152 Phố Chùa Quỳnh - Phường Quỳnh Lôi - Quận Hai Bà Trưng - Tp Hà Nội
 - **Số điện thoại:** 0965.468.555

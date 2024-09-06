@@ -2,6 +2,10 @@ url: "https://thanbarbershop.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-paginate
+
+encoding: UTF-8
 
 exclude:
   - node_modules
@@ -23,3 +27,15 @@ github:
   
 title: ThanBarberShop
 description: Địa chỉ Cắt Tóc Nam Đẹp tại Hà Nội - Tiệm Cắt Tóc Nam Phong cách Barber tại Hà Nội - ThanBarberShop
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
