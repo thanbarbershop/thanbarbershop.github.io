@@ -2,7 +2,6 @@ url: "https://thanbarbershop.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-archives
   - jekyll-paginate
 
 encoding: UTF-8
