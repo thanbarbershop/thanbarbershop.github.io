@@ -3,6 +3,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-archives
 
 encoding: UTF-8
 
@@ -27,6 +28,15 @@ github:
 title: ThanBarberShop
 description: Địa chỉ Cắt Tóc Nam Đẹp tại Hà Nội - Tiệm Cắt Tóc Nam Phong cách Barber tại Hà Nội - ThanBarberShop
 
+##
+# Archives configuration
+##
+jekyll-archives:
+  enabled:
+    - categories
+  layout: post
+  permalinks:
+    category: "/c/:name/"
 
 # html minify
 compress_html:
