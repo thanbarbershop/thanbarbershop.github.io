@@ -5,12 +5,13 @@ date: 2024-08-21
 categories: [Blog]
 tags: [tocnamdep]
 permalink: /toc-nam-dep/
+thumbnail: than-barber-shop.jpg
 
 ---
 
 # Tóc Nam Đẹp Tại ThanBarberShop
 
-![ThanBarberShop](../images//than-barber-shop.jpg)
+![ThanBarberShop]({{ site.baseurl }}/images/than-barber-shop.jpg)
 
 Ngày nay, việc chăm sóc tóc không còn là đặc quyền của phái nữ mà đã trở thành nhu cầu thiết yếu của nam giới. Một [kiểu tóc đẹp](https://thanbarbershop.com/kieutoc) không chỉ giúp bạn tự tin hơn trong giao tiếp mà còn thể hiện phong cách và cá tính của bản thân. Tại Hà Nội, ThanBarberShop là điểm đến lý tưởng cho những ai đang tìm kiếm các kiểu tóc nam đẹp và dịch vụ cắt tóc chuyên nghiệp.
 
@@ -70,20 +71,20 @@ ThanBarberShop là nơi bạn có thể hoàn toàn tin tưởng để cắt và
 **ThanBarberShop - Nơi Phong Cách Nam Giới Tỏa Sáng.**
 
 
-![ThanBarberShop](../images//toc-nam-dep-1.jpg)
+![ThanBarberShop](../images/toc-nam-dep-1.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-2.jpg)
+![ThanBarberShop](../images/toc-nam-dep-2.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-33.jpg)
+![ThanBarberShop](../images/toc-nam-dep-33.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-34.jpg)
+![ThanBarberShop](../images/toc-nam-dep-34.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-37.jpg)
+![ThanBarberShop](../images/toc-nam-dep-37.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-38.jpg)
+![ThanBarberShop](../images/toc-nam-dep-38.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-39.jpg)
+![ThanBarberShop](../images/toc-nam-dep-39.jpg)
 
-![ThanBarberShop](../images//toc-nam-dep-40.jpg)
+![ThanBarberShop](../images/toc-nam-dep-40.jpg)
 
 
